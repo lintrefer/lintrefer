@@ -1,3 +1,3 @@
-# First Chapter
+# chapter1 Google coding style
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+https://google.github.io/styleguide/javaguide.html
