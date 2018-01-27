@@ -6,4 +6,5 @@
 * [chapter3](chapter3.md)
 * [chapter6](chapter6.md)
 * [chapter7](chapter7.md)
+* [java](java.md)
 

@@ -1,0 +1,9 @@
+map.add
+hash.put
+hash.get
+arraylist
+linkedlist
+queue
+stack
+heap
+bst
